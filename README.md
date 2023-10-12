@@ -60,4 +60,4 @@ https://eiga.com/movie/ をブラウザで表示して欲しいデータのパ�
 
 「今週公開の映画」のリストの各 `img` 要素をループしたら、欲しいデータを取得できます。
 
-ソースコード： [prototype.py]()
+ソースコード： [prototype.py](prototype.py)
